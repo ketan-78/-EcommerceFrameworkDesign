@@ -1,0 +1,6 @@
+Selenium\PageObject\PersonalDetails.class
+Selenium\PageObject\LogIN.class
+Selenium\PageObject\OrderPage.class
+Selenium\Resources\ExtentReporter.class
+Selenium\ReusableComponents\Wait.class
+Selenium\PageObject\Product_Selection.class
